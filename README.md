@@ -43,4 +43,8 @@ Press ***Enter*** after the payload is created
 
 Now to start a ***Listener*** for that Payload option ***4*** can be used
 
+- ***LHOST*** : Ip of our hacking machine mainly ***localhost*** or ***127.0.0.1***
+- ***LPORT*** : *PORT NUMBER* that we specified while creating our payload.
+- ***NAME*** : Our Payload file name that we created in last step.
+
 ![Listener Opentons](https://github.com/AraignPirate/PayloadDemon/blob/main/demo_img/Second.png)
