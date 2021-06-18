@@ -19,11 +19,11 @@ Then run ***setup_demon.sh*** script.
 To start this script, we need to give **executable permissions** for that type these commands :
 
 > cd PayloadDemon
-> chmod +x PayloadDemon
+> chmod +x Payload_Demon.sh
 
 Now ro ***Run*** type:
 
-> ./PayloadDemon
+> ./Payload_Demon.sh
 
 If all setup was successfull then it will open a **xfce4-terminal** like this.
 
