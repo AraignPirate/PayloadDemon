@@ -26,3 +26,5 @@ Now ro ***Run*** type:
 > ./Payload_Demon.sh
 
 If all setup was successfull then it will open a **xfce4-terminal** like this.
+
+![Default Payload Demon Screen](https://github.com/AraignPirate/PayloadDemon/blob/main/demo_img/First.png)
