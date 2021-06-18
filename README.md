@@ -12,3 +12,19 @@ Then run ***setup_demon.sh*** script.
 
 > chmod +x setup_demon.sh && ./setup_demon.sh
 
+- This will create the required Directory Structure to support this program.
+
+## Run Script
+
+To start this script, we need to give **executable permissions** for that type these commands :
+
+> cd PayloadDemon
+> chmod +x PayloadDemon
+
+Now ro ***Run*** type:
+
+> ./PayloadDemon
+
+If all setup was successfull then it will open a **xfce4-terminal** like this.
+
+
