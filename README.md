@@ -26,5 +26,3 @@ Now ro ***Run*** type:
 > ./Payload_Demon.sh
 
 If all setup was successfull then it will open a **xfce4-terminal** like this.
-
-
