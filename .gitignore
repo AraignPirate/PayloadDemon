@@ -1,5 +1,5 @@
-./bin/.setupdone
-./apk
-./exe
-./scrpt
-./elf
+bin/.setupdone
+apk
+exe
+scrpt
+elf
